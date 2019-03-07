@@ -17,15 +17,15 @@
   everyday life. A majority of people on this earth spend most of their time looking down at
   their phones checking their social media to see what everyone is up to. This can hurt our social
   skills tremendously and it kind of already has. People are obsessed with their image online hoping
-  they will get noticed or get the operval they need from other people from them commenting on their posts.
+  they will get noticed or get the approval they need from other people from them commenting on their posts.
 
 ##Real time language translation
 	I think this invention is probably the most useful and most interesting out of all the ones I have
   listed. I feel as if I have seen something like this in a move, hearing someone talk then automatically
   getting it translated without a professional translator. This product will make business deals and any
-   other kind of deal much smoother than without this product. Learning a luages was always the hardest
-   subject for me in highschool and I think having this tool can make life so much easier. (I wish I had
-   his in my spanish class in high school)
+   other kind of deal much smoother than without this product. Learning a language was always the hardest
+   subject for me in high school and I think having this tool can make life so much easier. (I wish I had
+   his in my Spanish class in high school)
 
 ##Internet influencers
 	I personally don’t think internet influences are an odd thing but the older generations might.
