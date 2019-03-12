@@ -10,7 +10,7 @@ Something they did not mention in the book was CBBS which was "the software that
 
 #Idea No. 36: GeoCities
 
-*The book mentions that Yahoo! purchased GeoCities and that, because they were loosing money on it, Yahoo! would eventually announce that they would be shutting it down. However, it did not mention the fact that this annoucement was made only a few months before the shut down. Yahoo! would be deleting all the data on the GeoCities servers, this meant thousands of early user generated websites would disappear from the Internet forever. Fortunately, some folks found those websites to be important and valuable pieces of Internet history and took action to try and preserve some of these sites. Who are these people? What did they do to save GeoCities? Support your answer with sources.*
+*The book mentions that Yahoo! purchased GeoCities and that, because they were loosing money on it, Yahoo! would eventually announce that they would be shutting it down. However, it did not mention the fact that this announcement was made only a few months before the shut down. Yahoo! would be deleting all the data on the GeoCities servers, this meant thousands of early user generated websites would disappear from the Internet forever. Fortunately, some folks found those websites to be important and valuable pieces of Internet history and took action to try and preserve some of these sites. Who are these people? What did they do to save GeoCities? Support your answer with sources.*
 
 https://techcrunch.com/2009/10/10/internet-archaeology-in-which-the-sordid-past-of-the-internet-is-preserved-forever/
 https://archive.org/web/geocities.php
