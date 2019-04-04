@@ -1,4 +1,5 @@
-[In_progress](in_progress.jpg)
+# in progress
+![In_progress](in_progress.jpg)
 
 The Influence
 4/3/19
