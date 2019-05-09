@@ -1,5 +1,5 @@
-#Internet Influencers
-
+###Internet Influencers
+#Hayden Wentworth 
 
 The term Internet Influencer was coined around 2010 when Jenna Marbles, Shane Dawson, Pewdiepie, and many more started to gain some fame on social media.
 Internet influencers are the new celebrities of the 21st century. In the past twenty years social media has boomed with millions of people making accounts and living online. Most recently Internet influencers have become the new talk of the town. Internet Influencers essentially share their life online, either it be through photos, videos, or comments. The primary social media platforms are YouTube, Instagram, Twitter, and Facebook.The main demographic of their followers depends on the type of content they produce. These online influencers give people a personal glimpse into their lives. It is like being personal with a person without even meeting them in real life. This can benefit the viewer but also impair them. The viewer feels closer to them because they are more reachable then an average celebrity.Unfortunately, the viewers sometimes get way to invested into these influencers and then do not develop the social skills they need because influencers are so personal and reachable. Over time we will see the social effects on the younger generation.  
