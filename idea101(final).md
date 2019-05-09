@@ -1,4 +1,4 @@
-###Internet Influencers
+### Internet Influencers
 
 
 The term Internet Influencer was coined around 2010 when Jenna Marbles, Shane Dawson, Pewdiepie, and many more started to gain some fame on social media.
@@ -8,5 +8,4 @@ The social media platforms use a system so the influencer can make a living. Adc
 ![final](final.png)
 
 *Internet food chain, May 3, 2019, glue/wood/acrylic paint/printer paper, dimensions (22 x 18 )
-
 I chose to take a picture of my final project because it is the only way I could document it. From the last photo you saw about my piece I did not have a lot on the canvas. I printed out more pictures and collaged them together to make my work.*
