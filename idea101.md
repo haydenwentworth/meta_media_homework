@@ -4,5 +4,6 @@ Internet influencers are the  new celebrities of the 21st century. In the past t
 The social media platforms use a system so the influencer can make a living. Adcents and endorsements. Influencers get paid up to a couple of thousand dollars just to post one picture of a product. What is so amazing about this way of advertising is that their followers are most likely going to spend their money. Regular celebrities endorse products all the time but internet influencers have a better chance of getting their audience engage because of how personal and reatable they are. Adcents is based on how many views/clicks a the ad gets. Some influencers do for the money and other just do it because they love what they do.
 On the other side of things the Internet Influencers have a hard time dealing with the hate and balancing their actual life with filming/vlogging, posting, and commenting.
 
-[Research](research.md)
-[in_progress](in_progress.md)
+![Research](research.md)
+
+![in_progress](in_progress.md)
